@@ -8,7 +8,7 @@
 - 📚 Currently studying in the HTL Leonding (Higher Technical College) IT
 - 💻 Mostly programming in Python, C++ and C#
 - 🚀 Trying to try out and learn basically everything
-- ⚡ Developing in the Frostbyte [Development Team](https://github.com/FrostbyteBot) (Still under Heavy Development and early Release Stages!)
+- ⚡ Developing in the [Frostbyte Development Team](https://github.com/FrostbyteBot) (Still under Heavy Development and early Release Stages!)
 
 ## My tools and languages: 🔧
 <img align="left" alt="CPP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
