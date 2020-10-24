@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22IAXO)
 ### Hey there lovely person, I'm Nicolas K. aka. Kudo👋
 
 [![Website](https://img.shields.io/website?label=Frostbyte-Website&down_color=lightgrey&down_message=down&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Ffrostbyte.space)](https://frostbyte.space/)
