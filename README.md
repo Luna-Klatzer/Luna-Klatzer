@@ -16,9 +16,10 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br> 
 
-### My Github Stats :D
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-klatzer&theme=radical)](https://github.com/nicolas-klatzer/)
 [![Nicolas-Klatzer's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-klatzer&theme=radical&layout=compact)](https://github.com/nicolas-klatzer/)
 <br>
