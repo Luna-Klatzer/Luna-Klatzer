@@ -1,7 +1,7 @@
 ### Hey there lovely person, I'm Nicolas K. aka. Kudo👋
 
 [![Website](https://img.shields.io/website?label=Frostbyte-Website&down_color=lightgrey&down_message=down&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Ffrostbyte.space)](https://frostbyte.space/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thekudofox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thekudofox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheKudoFox)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/thekudofox?label=Follow%20u%2Fthekudofox&style=for-the-badge&logo=reddit)](https://reddit.com/u/thekudofox)
 
 ## The stuff that is going on right now: 📑
