@@ -1,10 +1,12 @@
 
 ### Hey there lovely person, I'm Nicolas K. aka. Kudo👋
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22IAXO)
+
 [![Website](https://img.shields.io/website?label=Frostbyte&down_color=lightgrey&down_message=down&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Ffrostbyte.space)](https://frostbyte.space/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thekudofox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheKudoFox)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/thekudofox?label=Follow%20u%2Fthekudofox&style=for-the-badge&logo=reddit)](https://reddit.com/u/thekudofox)
-[<img align="left" alt="CSharp" width="150px" src="https://i.imgur.com/hBLNeYT.jpg" />](https://www.patreon.com/thekudofox)
+<br>
+[<img align="left" alt="Patreon" width="150px" src="https://i.imgur.com/hBLNeYT.jpg" />](https://www.patreon.com/thekudofox)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22IAXO)
 <br>
 <br>
 ## The stuff that is going on right now: 📑
