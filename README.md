@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/website?label=Frostbyte&down_color=lightgrey&down_message=down&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Ffrostbyte.space)](https://frostbyte.space/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thekudofox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheKudoFox)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/thekudofox?label=Follow%20u%2Fthekudofox&style=for-the-badge&logo=reddit)](https://reddit.com/u/thekudofox)
+[<img align="left" alt="CSharp" width="150px" src="https://i.imgur.com/55dIaLE.jpg" />][patreon]
 
 ## The stuff that is going on right now: 📑
 - 📚 Currently studying in the HTL Leonding (Higher Technical College) IT
@@ -12,7 +13,7 @@
 - ⚡ Developing in the [Frostbyte Development Team](https://github.com/FrostbyteBot) (Still under Heavy Development and early Release Stages!)
 
 ## My tools and languages: 🔧
-<img align="left" alt="CPP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+´
 <img align="left" alt="CSharp" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 <img align="left" alt="ArchLinux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2000px-Archlinux-icon-crystal-64.svg.png" />
@@ -29,3 +30,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-klatzer&theme=radical)](https://github.com/nicolas-klatzer/)
 [![Nicolas-Klatzer's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-klatzer&theme=radical&layout=compact)](https://github.com/nicolas-klatzer/)
 <br>
+
+patreon: https://www.patreon.com/thekudofox
