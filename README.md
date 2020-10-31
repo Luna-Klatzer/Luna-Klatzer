@@ -11,7 +11,7 @@
 <br>
 ## The stuff that is going on right now: 📑
 - 📚 Currently studying in the HTL Leonding (Higher Technical College) IT
-- 💻 Mostly programming in Python, C++ and C#
+- 💻 Mostly programming in Python and C#
 - 🚀 Trying to try out and learn basically everything
 - ⚡ Developing in the [Frostbyte Development Team](https://github.com/FrostbyteBot) (Still under Heavy Development and early Release Stages!)
 
