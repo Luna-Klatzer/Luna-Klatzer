@@ -5,10 +5,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/thekudofox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheKudoFox)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/thekudofox?label=Follow%20u%2Fthekudofox&style=for-the-badge&logo=reddit)](https://reddit.com/u/thekudofox)
 <br>
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22IAXO)
-[<img align="left" alt="Patreon" width="150px" src="https://i.imgur.com/hBLNeYT.jpg" />](https://www.patreon.com/thekudofox)
-<br>
-<br>
 ## The stuff that is going on right now: 📑
 - 📚 Currently studying in the HTL Leonding (Higher Technical College) IT
 - 💻 Mostly programming in Python and C#
