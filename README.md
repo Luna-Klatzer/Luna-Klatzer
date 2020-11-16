@@ -14,6 +14,8 @@
 - 💻 Mostly programming in Python and C#
 - 🚀 Trying to try out and learn basically everything
 - ⚡ Developing in the [Frostbyte Development Team](https://github.com/FrostbyteSpace) (Still under Heavy Development and early Release Stages!) and working on the [Python API wrapper](https://github.com/FrostbyteSpace/openhiven.py) for Hiven 
+<br>
+<a href="https://github.com/FrostbyteSpace/openhiven.py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FrostbyteSpace&repo=openhiven.py&show_owner=true"></a>
 
 ## My tools and languages: 🔧
 ´
