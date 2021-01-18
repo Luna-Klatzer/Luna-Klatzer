@@ -7,9 +7,10 @@
 <br>
 ## The stuff that is going on right now: 📑
 - 📚 Currently studying in the HTL Leonding (Higher Technical College) IT
-- 💻 Mostly programming in Python and C#
-- 🚀 Trying to try out and learn basically everything
-- ⚡ Developing in the [Frostbyte Development Team](https://github.com/FrostbyteSpace) (Still under Heavy Development and early Release Stages!) and working on the [Python API wrapper](https://github.com/FrostbyteSpace/openhiven.py) for Hiven 
+- 💻 Mostly programming in Python, C#, TypeScript, JavaScript
+- 🚀 Trying to try out and learn basically everything possible in my available time
+- ⚡ Developing in the [Frostbyte Development Team](https://github.com/FrostbyteSpace) 
+- 💻 Working on the [Python API wrapper](https://github.com/FrostbyteSpace/openhiven.py) for Hiven 
 <br>
 <a href="https://github.com/FrostbyteSpace/openhiven.py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FrostbyteSpace&repo=openhiven.py&show_owner=true"></a>
 
