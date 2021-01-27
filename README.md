@@ -32,4 +32,4 @@
 [![Nicolas-Klatzer's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-klatzer&theme=radical&layout=compact)](https://github.com/nicolas-klatzer/)
 <br>
 
-patreon: https://www.patreon.com/thekudofox
+##### Currently unused Patreon: https://www.patreon.com/thekudofox
