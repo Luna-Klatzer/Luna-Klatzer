@@ -28,8 +28,8 @@
 <br> 
 
 ## Stats: 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-klatzer&theme=radical)](https://github.com/nicolas-klatzer/)
-[![Nicolas-Klatzer's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-klatzer&theme=radical&layout=compact)](https://github.com/nicolas-klatzer/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-klatzer&theme=jolly)](https://github.com/nicolas-klatzer/)
+[![Nicolas-Klatzer's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-klatzer&theme=jolly&layout=compact)](https://github.com/nicolas-klatzer/)
 <br>
 
 ##### Currently unused Patreon: https://www.patreon.com/thekudofox
