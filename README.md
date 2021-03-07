@@ -16,14 +16,16 @@
 ## My tools and languages: 🔧
 
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
+<img align="left" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="C" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-<img align="left" alt="CSharp" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>
-<img align="left" alt="ArchLinux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2000px-Archlinux-icon-crystal-64.svg.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="CLion" width="32px" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png">
+<img align="left" alt="CSharp" width="32px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png">
+<img align="left" alt="WebStorm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png">
+<img align="left" alt="Visual Studio Code" width="32px" src="https://www.kolowrat.at/wp-content/uploads/2019/11/1200px-Visual_Studio_Code_1.35_icon.svg_.png" />
+<img align="left" alt="Visual Studio" width="32px" src="https://user-images.githubusercontent.com/61756091/110257267-67066f00-7f9d-11eb-9bd1-2f39789c9561.png">
 <img align="left" alt="Docker" width="32px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="ArchLinux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2000px-Archlinux-icon-crystal-64.svg.png" />
 <br> 
 
 ## Stats: 📊
