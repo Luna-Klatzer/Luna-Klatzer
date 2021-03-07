@@ -16,7 +16,7 @@
 ## My tools and languages: 🔧
 
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
-<img align="left" alt="C" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img align="left" alt="C" width="32px" src="https://user-images.githubusercontent.com/61756091/110257490-7cc86400-7f9e-11eb-9d54-93e8c8ec844e.png">
 <img align="left" alt="CSharp" width="32px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
 <img align="left" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
