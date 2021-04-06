@@ -9,9 +9,9 @@
 - 💻 Mostly programming in Python, C#, TypeScript, JavaScript
 - 🚀 Trying to try out and learn basically everything possible in my available time
 - ⚡ Developing in the [Frostbyte Development Team](https://github.com/FrostbyteSpace) 
-- 💻 Working on the [Python API wrapper](https://github.com/FrostbyteSpace/openhiven.py) for Hiven 
+- 💻 Working on the [Python API wrapper](https://github.com/Nicolas-Klatzer/openhiven.py) for Hiven 
 <br>
-<a href="https://github.com/FrostbyteSpace/openhiven.py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FrostbyteSpace&theme=jolly&repo=OpenHiven.py&show_owner=true"></a>
+<a href="https://github.com/Nicolas-Klatzer/openhiven.py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-Klatzer&theme=jolly&repo=OpenHiven.py&show_owner=true"></a>
 
 ## My tools and languages: 🔧
 
