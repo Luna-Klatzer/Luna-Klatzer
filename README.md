@@ -1,5 +1,5 @@
 
-### Hey there lovely person, I'm Nicolas K. aka. Kudo👋
+### Hey there, I'm Luna K.👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thekudofox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheKudoFox)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/thekudofox?label=Follow%20u%2Fthekudofox&style=for-the-badge&logo=reddit)](https://reddit.com/u/thekudofox)
@@ -28,10 +28,5 @@
 <img align="left" alt="Docker" width="32px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png" />
 <img align="left" alt="ArchLinux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2000px-Archlinux-icon-crystal-64.svg.png" />
 <br> 
-
-## Stats: 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-klatzer&theme=jolly)](https://github.com/nicolas-klatzer/)
-[![Nicolas-Klatzer's github stats](https://github-readme-stats.vercel.app/api?username=nicolas-klatzer&theme=jolly&layout=compact)](https://github.com/nicolas-klatzer/)
-<br>
 
 ##### Currently unused Patreon: https://www.patreon.com/thekudofox
