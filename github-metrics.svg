@@ -1163,7 +1163,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            795 Commits
+            796 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1265,14 +1265,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.9150815114827" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="409.9150815114827" y="0" width="19.700706865645202" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="429.61578837712784" y="0" width="18.810376220005015" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="448.4261645971329" y="0" width="3.3863121904380393" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.812476787571" y="0" width="3.028420568451629" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.8408973560226" y="0" width="2.2126313861229683" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="457.05352874214555" y="0" width="1.645005087862504" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.698533830008" y="0" width="1.3014661699919783" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.91538397277634" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="409.91538397277634" y="0" width="19.700587893677902" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="429.61597186645423" y="0" width="18.8102626247173" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="448.42623449117156" y="0" width="3.3862917406021054" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.8125262317737" y="0" width="3.028402279912274" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.84092851168595" y="0" width="2.2126180241095788" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="457.05354653579553" y="0" width="1.6449951537270002" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.69854168952253" y="0" width="1.3014583104775115" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1316,6 +1316,25 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Luna-Klatzer/Para-C</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2cb9807</span>
+                                        <span class="message">Fixed type error in type hint (compiler.py)</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1409,31 +1428,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Luna-Klatzer/Para-C</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#32b89c6</span>
-                                        <span class="message">Added missing value in pytest -q (python-test.yml)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Vienna</span>
-                <span>Last updated Fri, 14 May 2021 16:44:03 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Fri, 14 May 2021 17:50:02 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
