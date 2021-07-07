@@ -1397,6 +1397,63 @@
                                 <div class="details">
                                     <div>on branch <span class="code">antlr4-dev</span></div>
                                     <div class="commit">
+                                        <span class="sha">#dcd5373</span>
+                                        <span class="message">Added todo</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">antlr4-dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#24d4a86</span>
+                                        <span class="message">Updated tests to fit the change in the previous commit</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">antlr4-dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#cc3f6a7</span>
+                                        <span class="message">Fixed WIN check issue in utils.py</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">antlr4-dev</span></div>
+                                    <div class="commit">
                                         <span class="sha">#ff7c4d1</span>
                                         <span class="message">Implemented relative names, work_dir to the SimpleProcess class and updated .docx document</span>
                                     </div>
@@ -1426,69 +1483,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">antlr4-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#46d532b</span>
-                                        <span class="message">Added more token implementations and updated Token ABC Classes</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">antlr4-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#a094fb8</span>
-                                        <span class="message">Updated preprocessor implementation and structure, updated handling of minor things and added _compile() to ProgramCompilationProcess</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">antlr4-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#6399f69</span>
-                                        <span class="message">Updated .docx file, updated any implementation reference and added listener and ctx to the pre-processor</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 07 Jul 2021 20:28:13 (timezone Europe/Vienna) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 07 Jul 2021 21:18:18 (timezone Europe/Vienna) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
