@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1228" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="943" class="">
     <defs>
         <style/>
     </defs>
@@ -1498,6 +1498,44 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">Luna-Klatzer/openhiven.py</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v0.2.dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2405d5a</span>
+                                        <span class="message">Updated examples</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Luna-Klatzer/openhiven.py</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v0.2.dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ada5e47</span>
+                                        <span class="message">Added parsers for events `on_message_create` and `on_message_delete`, fixed properties in Message and House</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 2 commits in <span class="repo">Luna-Klatzer/openhiven.py</span>
                     </div>
                                 </div>
@@ -1552,118 +1590,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      branch  <span class="code">v0.2.dev</span> in  <span class="repo">Luna-Klatzer/openhiven.py</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 19 commits in <span class="repo">Luna-Klatzer/openhiven.py</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#90aba44</span>
-                                        <span class="message">Merge pull request #104 from Luna-Klatzer/v0.2.dev
-
-Merging new version 0.2.dev3</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b2da860</span>
-                                        <span class="message">Merge branch 'main' into v0.2.dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bd28b62</span>
-                                        <span class="message">Updated selfbot.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f1f1297</span>
-                                        <span class="message">Fixed minor reference issue in CHANGELOG.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8918c33</span>
-                                        <span class="message">Added more docs and docstrings, edited minor things in properties and updated outdated docstrings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9aa2f4e</span>
-                                        <span class="message">Updated version to 0.2.dev3</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#228ba4f</span>
-                                        <span class="message">Added decorator log_type_exception for the types, fixed minor inconsistencies and added more docstrings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5fdba66</span>
-                                        <span class="message">Fixed minor grammatical issue in swarm_events.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c2f45ab</span>
-                                        <span class="message">Fixed remaining self.token references in pytest</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a319218</span>
-                                        <span class="message">Fixed pytest issue and small bug in on_house_member_exit calling house_member_exit listeners instead of house_member_offline</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#02e855e</span>
-                                        <span class="message">Fixed minor issue with house_member_offline and house_member_join, removed outdated note in index.md and added listener reference to API Docs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a85570e</span>
-                                        <span class="message">Made OpenHiven.py lowercase (openhiven.py) throughout the docs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2a4cd2a</span>
-                                        <span class="message">Fixed duplicate int in a union</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#85bd0a9</span>
-                                        <span class="message">Fixed outdated url config and added missing parenthesis to some fields in object_reference.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#adf9106</span>
-                                        <span class="message">Updated unavailable events in index.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0a9cc0b</span>
-                                        <span class="message">Updated link in README.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#80d6788</span>
-                                        <span class="message">Fixed formatting issue in swarm_events.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#eab72e4</span>
-                                        <span class="message">Fixed duplicate id bug in add_or_update_house for property item house_ids and fixed minor test issues</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7e5c052</span>
-                                        <span class="message">Updated docs (added ROLE_UPDATE event, added removal functions for ClientCache, added missing data to a few objects) and event parsers for the type House (changes in changelog)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 01/09/2021, 18:31 (timezone Europe/Vienna) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 01/09/2021, 19:24 (timezone Europe/Vienna) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
