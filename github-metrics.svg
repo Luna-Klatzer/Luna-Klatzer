@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="925" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="910" class="">
     <defs>
         <style/>
     </defs>
@@ -1575,26 +1575,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4b2df7e</span>
-                                        <span class="message">Updated badges in README.md</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5266f74</span>
+                                        <span class="sha">#fd3ed2c</span>
                                         <span class="message">Update pytest-linux-coverage.yml</span>
                                     </div>
                                 </div>
@@ -1613,8 +1594,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#9c60d65</span>
-                                        <span class="message">Updated actions (Removed check-testing.yml and valgrind.yml) and successfully implemented drmemory.yml and gtest (drmemory.yml)</span>
+                                        <span class="sha">#3612d4a</span>
+                                        <span class="message">Update pytest-win.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1632,8 +1613,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#00bf9b1</span>
-                                        <span class="message">Updated drmemory.yml</span>
+                                        <span class="sha">#3faab93</span>
+                                        <span class="message">Update pytest-macos.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1651,8 +1632,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c5c2453</span>
-                                        <span class="message">Updated drmemory.yml</span>
+                                        <span class="sha">#c81036c</span>
+                                        <span class="message">Update pytest-linux-coverage.yml</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3a69666</span>
+                                        <span class="message">Update drmemory.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1662,7 +1662,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/10/2021, 03:08 (timezone Europe/Vienna) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 10/10/2021, 04:30 (timezone Europe/Vienna) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
