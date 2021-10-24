@@ -1575,8 +1575,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-io-type-implementation</span></div>
                                     <div class="commit">
-                                        <span class="sha">#65b0834</span>
-                                        <span class="message">Added debug command in codecov.yml (for testing purposes)</span>
+                                        <span class="sha">#cdce8c4</span>
+                                        <span class="message">Fixed items in codecov.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1594,8 +1594,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-io-type-implementation</span></div>
                                     <div class="commit">
-                                        <span class="sha">#0d49b05</span>
-                                        <span class="message">Added gcov</span>
+                                        <span class="sha">#9c4f0dd</span>
+                                        <span class="message">Updated Upload file list in codecov.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1613,8 +1613,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-io-type-implementation</span></div>
                                     <div class="commit">
-                                        <span class="sha">#22eeaed</span>
-                                        <span class="message">Changed codecov.yml strategy to stick to only Ubuntu</span>
+                                        <span class="sha">#79ef492</span>
+                                        <span class="message">Updated codecov.yml and (hopefully) fixed the path</span>
                                     </div>
                                 </div>
                             </section>
@@ -1632,8 +1632,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-io-type-implementation</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c301b75</span>
-                                        <span class="message">Added GTest Coverage in codecov.yml</span>
+                                        <span class="sha">#9e82a8e</span>
+                                        <span class="message">Small directory change in codecov.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1651,8 +1651,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-io-type-implementation</span></div>
                                     <div class="commit">
-                                        <span class="sha">#8594253</span>
-                                        <span class="message">Updated CHANGELOG.md</span>
+                                        <span class="sha">#45f2983</span>
+                                        <span class="message">Small directory change in codecov.yml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1662,7 +1662,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/10/2021, 22:20 (timezone Europe/Vienna) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 24/10/2021, 23:17 (timezone Europe/Vienna) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
