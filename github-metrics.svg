@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="902" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="875" class="">
     <defs>
         <style/>
     </defs>
@@ -1354,13 +1354,13 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1566,75 +1566,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Starred <span class="repo">ivmai/bdwgc</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                      Starred <span class="repo">mkirchner/gc</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#58 Base IO and types implementation</span>
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Luna-Klatzer in <span class="repo">Para-C/Para-C</span></div>
-                                    <div class="comment">Another change that should be made:
-
-Implement an uninitialised macro for every type, which will return unlike <code>DefDefault</code> an initialised type, but where every value has been only declared, not initialised, making their accessing invalid. This should be the default for initialising any value, to preserve the values. For pointers, this will be handled a bit differently, as they will always be initialised to <code>NULL</code> and are so practically always defined, but they can't be accessed
-
-</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#58 Base IO and types implementation</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Luna-Klatzer in <span class="repo">Para-C/Para-C</span></div>
-                                    <div class="comment">Currently, memory management still needs to be implemented.
-Overview:
-Okay so basically my idea is as follows:
-Problem:
-I am currently having issues with memory allocation and pointers. Since C basically does nothing to manage pointers or even remotely implements any smart pointer functionality, or even the ability to validate pointers, I will have to implement that myself. The thing is what I want to achieve is these two goals:
-
- 
-Avoid memory leaks, by allowing warnings to be displayed if the macro __pbl_debug is defined - aka. no pointers exist anymore for a specific memory address
-
- 
-Avoid that a program crashes with SIGSEGV and allow it to be dynamically handled internally, meaning I can also execute code if the user attempts to access faulty memory using my exceptions, such as SegmentationFaultError, which are raised when accessing an invalid memory address.
-
-
-Solution:
-My idea is to implement a simple tracking system for all memory allocations, meaning that every single variable in my language will be allocated and accessed using pointers, and practically no C-type will be directly used anywhere. 
-This would mean I implement a linked list that is dynamically managed by the language itself, which will contain every single allocated item, its address and size, meaning that also bound-checks can be made for things like arrays as well. This would mean I also could track every single created pointer as well, and allow in debug-mode (since this still would take quite a lot of computation power to be enabled always) that memory-leaks are detected, aka. when a memory space that was allocated has no pointer anymore pointing to it. This means I would check whenever a pointer gets destroyed aka. the stack ends where it was created, and if a memory address still exists and no one else points to it =&gt; memory leak detected 
-</div>
+                                    <div>on branch <span class="code">base-io-type-implementation</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#40a2fde</span>
+                                        <span class="message">Fixed formatting</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1651,9 +1594,59 @@ This would mean I implement a linked list that is dynamically managed by the lan
                                 <div class="details">
                                     <div>on branch <span class="code">base-io-type-implementation</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c218c05</span>
-                                        <span class="message">Implemented SafeDeallocation, added `pbl-mem.h` and started fixing memory-allocation errors (Currently having to decide for pointer handling strategy, will fix this later)</span>
+                                        <span class="sha">#94bb268</span>
+                                        <span class="message">Added Compiler reference to docs</span>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">base-io-type-implementation</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7314d47</span>
+                                        <span class="message">Updated compiler structure section in ParaC-Luna-Klatzer.docx</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">base-io-type-implementation</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#07709d7</span>
+                                        <span class="message">Added garbage-collector include</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                      Starred <span class="repo">ivmai/bdwgc</span>
+                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1662,7 +1655,7 @@ This would mean I implement a linked list that is dynamically managed by the lan
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2021, 00:20:54 (timezone Europe/Vienna) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 1 Nov 2021, 02:08:00 (timezone Europe/Vienna) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
