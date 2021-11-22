@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="875" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
     <defs>
         <style/>
     </defs>
@@ -1477,7 +1477,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            199 issue comments
+            201 issue comments
           </div>
                     </section>
                     <section>
@@ -1627,18 +1627,28 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Luna-Klatzer/Kipper</span>
+                      Commented on <span class="issue">#6 [Bug] CLI fails due to `TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension "" for ...\Kipper\bin\run`</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#aea0ca6</span>
-                                        <span class="message">Updated package.json and tsconfig.json to fully fix the issue</span>
-                                    </div>
+                                    <div>opened by Luna-Klatzer in <span class="repo">Luna-Klatzer/Kipper</span></div>
+                                    <div class="comment">For reference what fixed the issue (as of 1b4768b073a1123f94b1e1092df2c8d3f741e8bc):
+
+Some plugin for <code>eslint</code> caused some incompatibility issues - removed
+<code>eslint</code> required <code>@typescript-eslint/eslint-plugin</code>, but due to issues with version <code>5.*.*</code>, it was updated to <code>7.32.0</code> and the following plugins were added:
+<code>"@typescript-eslint/eslint-plugin": "^5.4.0"</code>
+<code>"@typescript-eslint/parser": "^5.4.0"</code>
+
+
+<code>mocha</code> has a version mishmash issue, where it conflicted in some versions. Downgraded to <code>5.2.0</code>
+<code>oclif</code> does not support <code>tsc</code> for building, and using that in the first place was invalid. <code>build</code> was removed from <code>scripts</code> in <code>package.json</code> as a result
+Using <code>"type": "module"</code> in <code>package.json</code> caused oclif to have errors when loading it as a module using <code>/bin/run</code>
+Typesript was missing in the <code>package.json</code> in a few versions -&gt; GitHub Actions failed to load it appropriately
+
+</div>
                                 </div>
                             </section>
                         </div>
@@ -1646,18 +1656,47 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Luna-Klatzer/Kipper</span>
+                      Closed <span class="issue">#6 [Bug] CLI fails due to `TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension "" for ...\Kipper\bin\run`</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4d08259</span>
-                                        <span class="message">Removed invalid `build` scripts</span>
-                                    </div>
+                                    <div>opened  in <span class="repo">Luna-Klatzer/Kipper</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 1.5a6.491 6.491 0 00-5.285 2.715l1.358 1.358A.25.25 0 013.896 6H.25A.25.25 0 010 5.75V2.104a.25.25 0 01.427-.177l1.216 1.216a8 8 0 0114.315 4.03.748.748 0 01-.668.83.75.75 0 01-.824-.676A6.501 6.501 0 008 1.5zM.712 8.004a.75.75 0 01.822.67 6.501 6.501 0 0011.751 3.111l-1.358-1.358a.25.25 0 01.177-.427h3.646a.25.25 0 01.25.25v3.646a.25.25 0 01-.427.177l-1.216-1.216A8 8 0 01.042 8.827a.75.75 0 01.67-.823zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Reopened <span class="issue">#6 [Bug] CLI fails due to `TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension "" for ...\Kipper\bin\run`</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">Luna-Klatzer/Kipper</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#6 [Bug] CLI fails due to `TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension "" for ...\Kipper\bin\run`</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Luna-Klatzer in <span class="repo">Luna-Klatzer/Kipper</span></div>
+                                    <div class="comment">Officially, finally, for the last time, it's fixed with 1b4768b073a1123f94b1e1092df2c8d3f741e8bc
+</div>
                                 </div>
                             </section>
                         </div>
@@ -1668,47 +1707,9 @@
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                      Created new
+                      Deleted
                       branch  <span class="code">overwrite-dev_2</span> in  <span class="repo">Luna-Klatzer/Kipper</span>
                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Luna-Klatzer/Kipper</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#70ae054</span>
-                                        <span class="message">Updated configuration `.eslintrc`</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Luna-Klatzer/Kipper</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#25c4044</span>
-                                        <span class="message">Updated to proper config to properly work</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1717,7 +1718,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2021, 23:21:04 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 23 Nov 2021, 00:21:11 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
