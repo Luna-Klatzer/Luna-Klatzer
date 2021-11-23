@@ -1793,7 +1793,7 @@ Fixed `mocha` import issue and #6 `oclif` `/bin/run` issue</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2021, 14:25:38 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 23 Nov 2021, 15:19:16 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
