@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1194" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="841" class="">
     <defs>
         <style/>
     </defs>
@@ -1636,6 +1636,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-dev</span></div>
                                     <div class="commit">
+                                        <span class="sha">#79e4773</span>
+                                        <span class="message">Updated important text section</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">base-dev</span></div>
+                                    <div class="commit">
                                         <span class="sha">#11dd5b4</span>
                                         <span class="message">Updated `json-schema` version</span>
                                     </div>
@@ -1687,124 +1706,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 27 commits in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5cea87e</span>
-                                        <span class="message">Added Topic Text to index.html</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#65baf0c</span>
-                                        <span class="message">Edited index.html
-
-Edited index.html
-Added Pictures for the new Buttons</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c21737d</span>
-                                        <span class="message">Update docs.html</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#49f5b8e</span>
-                                        <span class="message">Corrected Text of Website in Downloads Page
-
-Corrected Text of Website in Downloads Page</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#28d3373</span>
-                                        <span class="message">Update docs.html</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fc06848</span>
-                                        <span class="message">Fixed Big Design Bug in docs.html</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7608a1f</span>
-                                        <span class="message">Made Some Changes in docs.html,about.html</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#621d261</span>
-                                        <span class="message">Merge branch 'base-dev' of https://github.com/WMC-AHIF-2021/Kipper-Web into base-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#97fe273</span>
-                                        <span class="message">Made Some Changes to install.html and added Links in the Nav-Bar</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4dde7ff</span>
-                                        <span class="message">Merge remote-tracking branch 'origin/base-dev' into base-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7b32517</span>
-                                        <span class="message">Added icons8-search.svg</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9e6b64f</span>
-                                        <span class="message">Fixed typo in README.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5e32bbb</span>
-                                        <span class="message">Merge remote-tracking branch 'origin/base-dev' into base-dev
-
-# Conflicts:
-#	src/about.html
-#	src/docs.html
-#	src/index.html
-#	src/playground.html</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2e43e25</span>
-                                        <span class="message">Fixed issue in about.html, updated general layout design implemented proper flex-box usage in some areas and attempted to create a footer bar (not fully functional as it does not yet *in most cases* stick to the bottom of the site)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ab221c4</span>
-                                        <span class="message">Added Menu-Buttons to Nav-Bar</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#055047b</span>
-                                        <span class="message">Pre-Release of Docs.html
-
-Docs.html is not finished yet.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6bc44bb</span>
-                                        <span class="message">Pre-Release of about.html
-
-About.html is not finished yet.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#23e27f6</span>
-                                        <span class="message">Fixed a Color Bug in the Nav-Bar</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#248b48f</span>
-                                        <span class="message">Updated buttons.css
-
-So that free-roaming buttons on the website are matching the color Scheme of the Website</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0f01f13</span>
-                                        <span class="message">Added Install Guide Button to Nav-Bar</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2021, 07:20:41 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 30 Nov 2021, 08:16:40 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
