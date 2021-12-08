@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="961" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="974" class="">
     <defs>
         <style/>
     </defs>
@@ -1636,7 +1636,68 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#b834523</span>
+                                        <span class="sha">#6984b0c</span>
+                                        <span class="message">Updated link behaviour and updated `--default-border-radius` in main.css</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">base-dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#8e46cc0</span>
+                                        <span class="message">Updated playground.html and removed the linux bash tag, and replaced it with a simple `&gt;`</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">base-dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7be6b7c</span>
+                                        <span class="message">Updated install.html and added content to it. Removed unneeded install-linux.html and install-windows.html</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">base-dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#f5ec8d4</span>
+                                        <span class="message">Merge remote-tracking branch 'origin/base-dev' into base-dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0cb8ddf</span>
                                         <span class="message">Added `search-bar.ts`, which implements the animation behaviour for the search bar (async) - not fully done yet</span>
                                     </div>
                                 </div>
@@ -1655,75 +1716,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-dev</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6aae225</span>
-                                        <span class="message">Added `--search-bar-animation-duration` variable in nav-bar.css</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b552d50</span>
-                                        <span class="message">Updated line-height (set to `1.5`) to fix overflow issue with `&lt;code&gt;`</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#65938e8</span>
-                                        <span class="message">Updated button formatting (made the text bold inside)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e76e1b8</span>
-                                        <span class="message">Merge pull request #11 from WMC-AHIF-2021/base-dev
-
-Merging `deploy-gh-pages.yml` update</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#eef6de3</span>
-                                        <span class="message">Updated deploy-gh-pages.yml</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#62da623</span>
-                                        <span class="message">Updated CHANGELOG.md to new version `v0.1.1`</span>
+                                        <span class="sha">#b834523</span>
+                                        <span class="message">Added `search-bar.ts`, which implements the animation behaviour for the search bar (async) - not fully done yet</span>
                                     </div>
                                 </div>
                             </section>
@@ -1733,7 +1727,7 @@ Merging `deploy-gh-pages.yml` update</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2021, 21:22:37 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 8 Dec 2021, 22:18:36 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
