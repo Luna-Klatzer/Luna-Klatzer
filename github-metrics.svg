@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="974" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="956" class="">
     <defs>
         <style/>
     </defs>
@@ -1630,6 +1630,63 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C-Base-Library</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">issue-67-implem</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#feaf443</span>
+                                        <span class="message">Updated signature and docstrings for pbl-advanced-mem.h</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C-Base-Library</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">issue-67-implem</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3d61327</span>
+                                        <span class="message">Added 'PblMallocUncollectable()' for allocating variables that may not be collected by the GC</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C-Base-Library</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">issue-67-implem</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#fa3ba6d</span>
+                                        <span class="message">Added pbl-advanced-mem.h for advanced and exception-supported memory handling functions</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
                     </div>
                                 </div>
@@ -1661,73 +1718,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7be6b7c</span>
-                                        <span class="message">Updated install.html and added content to it. Removed unneeded install-linux.html and install-windows.html</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#f5ec8d4</span>
-                                        <span class="message">Merge remote-tracking branch 'origin/base-dev' into base-dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0cb8ddf</span>
-                                        <span class="message">Added `search-bar.ts`, which implements the animation behaviour for the search bar (async) - not fully done yet</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b834523</span>
-                                        <span class="message">Added `search-bar.ts`, which implements the animation behaviour for the search bar (async) - not fully done yet</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2021, 10:21:31 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 9 Dec 2021, 11:23:46 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
