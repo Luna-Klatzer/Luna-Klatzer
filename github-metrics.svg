@@ -1630,6 +1630,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">Para-C/Para-C-Base-Library</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">issue-67-implem</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#814841f</span>
+                                        <span class="message">Added simple string print test in test_simple_print_program.cpp</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 26 commits in <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
                     </div>
                                 </div>
@@ -1772,31 +1791,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Para-C/Para-C-Base-Library</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">issue-67-implem</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e480c73</span>
-                                        <span class="message">Restructured and did a full cleanup of the project to soon move to implement advanced meta-types (65, 66, 67)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2021, 13:34:01 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 13 Dec 2021, 14:26:51 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
