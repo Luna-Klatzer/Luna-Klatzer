@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1333" class="">
     <defs>
         <style/>
     </defs>
@@ -1630,6 +1630,41 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 5 commits in <span class="repo">Para-C/Para-C-Base-Library</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">issue-67-implem</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#c52030f</span>
+                                        <span class="message">Added simple-io.c example file, and added `PblString_T *PblInput(PblString_T*, PblChar_T*)` and `PblChar_T *PblInputChar(PblString_T*, PblChar_T*)`</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1338df2</span>
+                                        <span class="message">Fixed multiple warnings in the test files test_exception.cpp, test_simple_print_program.cpp and test_io.cpp</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6847ef7</span>
+                                        <span class="message">Added explicit `PblMemInit()` to initialise the GC and allow for pre-main-execution setup for pbl-mem.h</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#94b222a</span>
+                                        <span class="message">Updated pbl-function.h parameters and added 'PBL_VAL_REQ_ARG()'</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#523c31a</span>
+                                        <span class="message">Added 'auto' usage in pbl-types.h to avoid warning of type duplication</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">Para-C/Para-C-Base-Library</span>
                     </div>
                                 </div>
@@ -1772,31 +1807,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Para-C/Para-C-Base-Library</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">issue-67-implem</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7ffb17c</span>
-                                        <span class="message">Renamed wrong reference of `runParacModulesTests`</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2021, 15:23:44 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 14 Dec 2021, 16:27:08 (timezone Europe/Vienna) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
