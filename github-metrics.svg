@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="888" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="904" class="">
     <defs>
         <style/>
     </defs>
@@ -315,8 +315,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#79c90ce</div>
-                                        <div class="message">Updated badges in README.md</div>
+                                        <div class="sha">#8669f44</div>
+                                        <div class="message">Added C requirements in README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -335,8 +335,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">issue-67-implem</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8412d26</div>
-                                        <div class="message">Removed support for GCC `7.0` and added version badges to README.md</div>
+                                        <div class="sha">#ad1517f</div>
+                                        <div class="message">Removed debug file listing in mingw-compatibility-checks.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -355,8 +355,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">issue-67-implem</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b7401d3</div>
-                                        <div class="message">Fixed accidental wrong `CMAKE_CXX_COMPILER` value</div>
+                                        <div class="sha">#9ac0967</div>
+                                        <div class="message">Fixed invalid argument</div>
                                     </div>
                                 </div>
                             </section>
@@ -375,8 +375,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">issue-67-implem</span></div>
                                     <div class="commit">
-                                        <div class="sha">#55b066a</div>
-                                        <div class="message">Fixed wrong usage of Windows C Compiler instead of MinGW in mingw-compatibility-checks.yml</div>
+                                        <div class="sha">#d7979a7</div>
+                                        <div class="message">Added debug directory listing in mingw-compatibility-checks.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -385,15 +385,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 1.5a6.491 6.491 0 00-5.285 2.715l1.358 1.358A.25.25 0 013.896 6H.25A.25.25 0 010 5.75V2.104a.25.25 0 01.427-.177l1.216 1.216a8 8 0 0114.315 4.03.748.748 0 01-.668.83.75.75 0 01-.824-.676A6.501 6.501 0 008 1.5zM.712 8.004a.75.75 0 01.822.67 6.501 6.501 0 0011.751 3.111l-1.358-1.358a.25.25 0 01.177-.427h3.646a.25.25 0 01.25.25v3.646a.25.25 0 01-.427.177l-1.216-1.216A8 8 0 01.042 8.827a.75.75 0 01.67-.823zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Reopened
-                                        <span class="issue">#67 [Lang Enhancement Proposal] Implement `PblTypeMeta_T` and file scope type tracking (dynamic type checking and conversion)</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Para-C/Para-C-Base-Library</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">Para-C/Para-C</span></div>
+                                    <div>on branch <span class="code">issue-67-implem</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4a332f0</div>
+                                        <div class="message">Fixed path to the `runPblTests.exe` executable in mingw-compatibility-checks.yml</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -402,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2022, 20:16:10 (timezone Europe/Vienna) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 21 Jan 2022, 21:19:15 (timezone Europe/Vienna) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
