@@ -363,7 +363,7 @@ Replaced 'parser', which was accidentally inserted in an invalid replace, to 'py
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2022, 07:25:10 (timezone Europe/Vienna) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 08:19:10 (timezone Europe/Vienna) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
