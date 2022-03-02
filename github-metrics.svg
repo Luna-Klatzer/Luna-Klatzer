@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="871" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="821" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2070 Commits
+                            2071 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.32782953041277" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="303.32782953041277" y="0" width="120.99897477277815" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="424.3268043031909" y="0" width="13.522401629309893" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="437.8492059325008" y="0" width="12.911286066029055" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.76049199852986" y="0" width="3.2707235451307235" height="8" fill="#9DC3FF"/>
-                    <rect mask="url(#languages-bar)" x="454.03121554366055" y="0" width="2.3713699080611597" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.40258545172173" y="0" width="2.078682735007779" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.4812681867295" y="0" width="1.5187318132704748" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.95507032875287" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="302.95507032875287" y="0" width="121.41557272134496" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="424.3706430500978" y="0" width="13.50578396635536" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="437.87642701645314" y="0" width="12.895419402248725" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.77184641870184" y="0" width="3.266704156934722" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="454.0385505756366" y="0" width="2.3684557344585015" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.4070063100951" y="0" width="2.076128244316947" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.483134554412" y="0" width="1.516865445587936" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -305,6 +305,42 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">dev</span>
+                                        in
+                                        <span class="repo">Luna-Klatzer/Kipper-CLI</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Luna-Klatzer/Kipper-CLI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3ae9185</div>
+                                        <div class="message">Added logger.ts which implements logger handling for the CLI</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
@@ -356,56 +392,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Luna-Klatzer/Kipper-CLI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fa6e472</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4954ef</div>
-                                        <div class="message">Updated CHANGELOG.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Luna-Klatzer/Kipper-CLI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#989b915</div>
-                                        <div class="message">Updated CHANGELOG.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 14:29:04 (timezone Europe/Vienna) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 15:25:04 (timezone Europe/Vienna) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
