@@ -315,8 +315,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ead448</div>
-                                        <div class="message">Renamed `RuntimeCompileConfig` to `CompilerOptions`</div>
+                                        <div class="sha">#b43df81</div>
+                                        <div class="message">Added new function `compileCtx()` for all token context classes.</div>
                                     </div>
                                 </div>
                             </section>
@@ -335,11 +335,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#616781e</div>
+                                        <div class="sha">#6aa1f6f</div>
                                         <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#86b933a</div>
+                                        <div class="sha">#57c612e</div>
                                         <div class="message">Prettified code</div>
                                     </div>
                                 </div>
@@ -359,8 +359,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2da2b8a</div>
-                                        <div class="message">Updated tests and fixed minor errors</div>
+                                        <div class="sha">#43fcbd2</div>
+                                        <div class="message">Updated tests and created working "Hello world!" test. Milestone achieved! :)</div>
                                     </div>
                                 </div>
                             </section>
@@ -379,8 +379,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4212df6</div>
-                                        <div class="message">Implemented `CompileAssert.globalCanBeRegistered()`</div>
+                                        <div class="sha">#168dae6</div>
+                                        <div class="message">Updated compile config handling, renamed `CompilerOptions` to `CompilerEvaluatedOptions` and changed default value behaviour</div>
                                     </div>
                                 </div>
                             </section>
@@ -399,8 +399,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#25066a0</div>
-                                        <div class="message">Renamed `GlobalAlreadyRegisteredError` to `InvalidGlobalError`</div>
+                                        <div class="sha">#f982f3b</div>
+                                        <div class="message">Implemented proper identifier-prefixing for built-in-function calls</div>
                                     </div>
                                 </div>
                             </section>
@@ -410,7 +410,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2022, 21:17:56 (timezone Europe/Vienna) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 12 Apr 2022, 22:22:58 (timezone Europe/Vienna) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
