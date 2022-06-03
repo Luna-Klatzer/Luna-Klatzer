@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="904" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="921" class="">
     <defs>
         <style/>
     </defs>
@@ -315,8 +315,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e1829a</div>
-                                        <div class="message">Removed corrupted images</div>
+                                        <div class="sha">#6d33597</div>
+                                        <div class="message">Prettified code</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b0028e4</div>
+                                        <div class="message">Fixed bug in file-stream.ts which occurred when reading files causing line endings to be internally removed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc6e6fc</div>
+                                        <div class="message">Cleaned up code</div>
                                     </div>
                                 </div>
                             </section>
@@ -335,8 +359,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#396a09a</div>
-                                        <div class="message">Delete img directory</div>
+                                        <div class="sha">#b124d8a</div>
+                                        <div class="message">Updated carbon-code-snippet.png</div>
                                     </div>
                                 </div>
                             </section>
@@ -355,8 +379,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#437ab33</div>
-                                        <div class="message">Updated .gitattributes file to fix git image corruption issues</div>
+                                        <div class="sha">#036ba66</div>
+                                        <div class="message">Added fixed carbon-code-snippet.png</div>
                                     </div>
                                 </div>
                             </section>
@@ -375,28 +399,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d88bf0d</div>
-                                        <div class="message">Fixed corrupted images and added sample-program.kip</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4001c4b</div>
-                                        <div class="message">Updated /img/ folder and restored old images</div>
+                                        <div class="sha">#011e4b3</div>
+                                        <div class="message">Removed corrupted carbon-code-snippet.png</div>
                                     </div>
                                 </div>
                             </section>
@@ -406,7 +410,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2022, 20:25:48 (timezone Europe/Vienna) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 3 Jun 2022, 21:17:07 (timezone Europe/Vienna) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
