@@ -308,6 +308,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">159-feature-implement-optimisation-tree-shaking-for-internal-and-built-in-functions</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#56315c2</div>
+                                        <div class="message">Updated tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e53c789</div>
+                                        <div class="message">Updated CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64522a7</div>
+                                        <div class="message">Updated scope handling system and implemented optimisation arguments for CompileConfig</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Luna-Klatzer/Kipper</span>
                                     </div>
@@ -388,40 +416,12 @@ Update typescript-eslint monorepo to v5.27.1</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">159-feature-implement-optimisation-tree-shaking-for-internal-and-built-in-functions</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#77195b7</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/159-feature-implement-optimisation-tree-shaking-for-internal-and-built-in-functions' into 159-feature-implement-optimisation-tree-shaking-for-internal-and-built-in-functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07a141a</div>
-                                        <div class="message">Implemented built-in and internal tree-shaking in KipperOptimiser</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#026d5db</div>
-                                        <div class="message">Implemented internal and built-in identifier tracking</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2022, 13:19:08 (timezone Europe/Vienna) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 14:44:23 (timezone Europe/Vienna) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
