@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="904" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1171" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3235 Commits
+                            3247 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -315,8 +315,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5ba91bf</div>
-                                        <div class="message">Updated CHANGELOG.md</div>
+                                        <div class="sha">#82eff18</div>
+                                        <div class="message">Updated border color in Kipper docs</div>
                                     </div>
                                 </div>
                             </section>
@@ -333,51 +333,115 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#82eff18</div>
+                                        <div class="message">Updated border color in Kipper docs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8f0dd2f</div>
+                                        <div class="message">Merging main into base-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ba91bf</div>
+                                        <div class="message">Updated CHANGELOG.md</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#a35718d</div>
                                         <div class="message">Updated spacing for version tag</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
                                     <div class="commit">
                                         <div class="sha">#61c7f2e</div>
                                         <div class="message">Added version identifier to Kipper logo</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">base-dev</span></div>
                                     <div class="commit">
                                         <div class="sha">#31a73e2</div>
                                         <div class="message">Updated CHANGELOG.md</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8eae35</div>
+                                        <div class="message">Updated description of compiler.html</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd88874</div>
+                                        <div class="message">Updated tsconfig.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#784a8a1</div>
+                                        <div class="message">Updated CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#157ac39</div>
+                                        <div class="message">Updated docs design, layout and formatting.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac763aa</div>
+                                        <div class="message">Updated parcel run config in package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ee753a</div>
+                                        <div class="message">Updated datatypes.html</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">WMC-AHIF-2021/Kipper-Web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">base-dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8f0dd2f</div>
+                                        <div class="message">Merging main into base-dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ab4081</div>
+                                        <div class="message">Updated datatypes.html</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e3eec5</div>
+                                        <div class="message">Merging base-dev into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08277f2</div>
+                                        <div class="message">Merging base-dev into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd5d45a</div>
+                                        <div class="message">Updated welcome message in the Kipper playground</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20cee07</div>
+                                        <div class="message">Added Compiler identifier message in compile-worker.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca32137</div>
+                                        <div class="message">Updated deploy-gh-pages.yml</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -395,8 +459,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">base-dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d8eae35</div>
-                                        <div class="message">Updated description of compiler.html</div>
+                                        <div class="sha">#5ba91bf</div>
+                                        <div class="message">Updated CHANGELOG.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -406,7 +470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2022, 00:20:22 (timezone Europe/Vienna) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 01:20:18 (timezone Europe/Vienna) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
