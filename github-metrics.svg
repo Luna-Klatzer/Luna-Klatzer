@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">A programmer from Austria that loves wholesomeness, good code and foxes🦊</div>
+                        <div class="introduction">A programmer from Austria that loves wholesomeness, good code and foxes 🦊</div>
                     </section>
                 </div>
             </section>
@@ -402,7 +402,7 @@ Update typescript-eslint monorepo to v5.30.5</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2022, 14:47:27 (timezone Europe/Vienna) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 11 Jul 2022, 15:44:31 (timezone Europe/Vienna) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
