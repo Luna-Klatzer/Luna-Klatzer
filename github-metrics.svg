@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1337" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1221" class="">
     <defs>
         <style/>
     </defs>
@@ -305,6 +305,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#198 [Feature] Implement error recovery for the Kipper compiler</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">Luna-Klatzer/Kipper</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -458,58 +475,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6427027</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa3c1c5</div>
-                                        <div class="message">Fixed merge conflict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#865722f</div>
-                                        <div class="message">Merge pull request #266 from Luna-Klatzer/renovate/typescript-eslint-monorepo
-
-Update typescript-eslint monorepo to v5.32.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b608bbd</div>
-                                        <div class="message">Update typescript-eslint monorepo to v5.32.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81da0f5</div>
-                                        <div class="message">Updated pnpm-lock.yaml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0985733</div>
-                                        <div class="message">Updated branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc145bf</div>
-                                        <div class="message">Added codecov coverage reports</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2022, 15:44:24 (timezone Europe/Vienna) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 16:22:14 (timezone Europe/Vienna) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
