@@ -38,12 +38,12 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,13 +82,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3810 Commits
+                            3813 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            48 Pull requests reviewed
+                            51 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -315,14 +315,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d9c1960</div>
-                                        <div class="message">Merge pull request #341 from Luna-Klatzer/renovate/oclif-test-2.x
+                                        <div class="sha">#e149e8b</div>
+                                        <div class="message">Merge pull request #337 from Luna-Klatzer/renovate/typescript-eslint-monorepo
 
-Update dependency @oclif/test to v2.2.10</div>
+Update typescript-eslint monorepo to v5.42.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#db97a6b</div>
-                                        <div class="message">Update dependency @oclif/test to v2.2.10</div>
+                                        <div class="sha">#b355cc9</div>
+                                        <div class="message">Update typescript-eslint monorepo to v5.42.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -335,12 +335,12 @@ Update dependency @oclif/test to v2.2.10</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#341 Update dependency @oclif/test to v2.2.10</span>
+                                        <span class="issue">#337 Update typescript-eslint monorepo to v5.42.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">Luna-Klatzer/Kipper</span></div>
-                                    <div>4 files changed <span class="code">++10 --10</span></div>
+                                    <div>2 files changed <span class="code">++45 --40</span></div>
                                 </div>
                             </section>
                         </div>
@@ -352,7 +352,7 @@ Update dependency @oclif/test to v2.2.10</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#341 Update dependency @oclif/test to v2.2.10</span>
+                                        <span class="issue">#337 Update typescript-eslint monorepo to v5.42.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -374,14 +374,14 @@ Update dependency @oclif/test to v2.2.10</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a6ff09</div>
-                                        <div class="message">Merge pull request #342 from Luna-Klatzer/renovate/oclif-3.x
+                                        <div class="sha">#daa8176</div>
+                                        <div class="message">Merge pull request #339 from Luna-Klatzer/renovate/json-parse-even-better-errors-3.x
 
-Update dependency oclif to v3.2.25</div>
+Update dependency json-parse-even-better-errors to v3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3e7f369</div>
-                                        <div class="message">Update dependency oclif to v3.2.25</div>
+                                        <div class="sha">#bebec3a</div>
+                                        <div class="message">Update dependency json-parse-even-better-errors to v3</div>
                                     </div>
                                 </div>
                             </section>
@@ -394,12 +394,12 @@ Update dependency oclif to v3.2.25</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#342 Update dependency oclif to v3.2.25</span>
+                                        <span class="issue">#339 Update dependency json-parse-even-better-errors to v3</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">Luna-Klatzer/Kipper</span></div>
-                                    <div>2 files changed <span class="code">++7 --6</span></div>
+                                    <div>12 files changed <span class="code">++40 --26</span></div>
                                 </div>
                             </section>
                         </div>
@@ -408,7 +408,7 @@ Update dependency oclif to v3.2.25</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2022, 13:40:46 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 6 Nov 2022, 14:32:50 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
