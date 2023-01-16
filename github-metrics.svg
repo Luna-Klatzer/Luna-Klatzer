@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1201" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1034" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3685 Commits
+                            4079 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -305,6 +305,125 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">372-feature-implement-array-access-syntax-identifierindex-for-strings</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5362516</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/372-feature-implement-array-access-syntax-identifierindex-for-strings' into 372-feature-implement-array-access-syntax-identifierindex-for-strings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4980e39</div>
+                                        <div class="message">Changed CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f5112a</div>
+                                        <div class="message">Prettified README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8e83ac</div>
+                                        <div class="message">Updated class structure for CompilableASTNode and introduced new class AnalysableASTNde</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">3ahif-2223-wmc-3/22-static-website-Luna-Klatzer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#522ed3c</div>
+                                        <div class="message">Removed ugly double newline</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">3ahif-2223-wmc-3/22-static-website-Luna-Klatzer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#79571cb</div>
+                                        <div class="message">task 6 (stable): Added handler for route '/img/*'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0a36a8</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main'
+
+# Conflicts:
+#	src/app.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e64eafd</div>
+                                        <div class="message">task 5 (stable): Added endpoints for "gallery.html" and "contact.html" as well as restructured endpoint functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f361f1d</div>
+                                        <div class="message">task 4 (stable): Added server for css files in endpoint `/css/*`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cec635a</div>
+                                        <div class="message">task 3 (stable): Added index.html serve on root endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#387a294</div>
+                                        <div class="message">task 2 (stable): Set up basic webserver in app.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d543e8e</div>
+                                        <div class="message">task 1 (stable): Set up express project</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">3ahif-2223-wmc-3/22-static-website-Luna-Klatzer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9ccb57c</div>
+                                        <div class="message">task 1 (stable): Set up Express project</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -317,186 +436,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">WMC-AHIF-2022/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0374018</div>
-                                        <div class="message">Added project urls</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 50 commits in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">372-feature-implement-array-access-syntax-identifierindex-for-strings</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#367340c</div>
-                                        <div class="message">Merge pull request #370 from Luna-Klatzer/renovate/typescript-4.x
-
-Update dependency typescript to v4.9.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd8931c</div>
-                                        <div class="message">Update dependency prettier to v2.8.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12bc885</div>
-                                        <div class="message">Merge pull request #356 from Luna-Klatzer/renovate/oclif-3.x
-
-Update dependency oclif to v3.4.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50b1330</div>
-                                        <div class="message">Update dependency typescript to v4.9.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2cc8cb</div>
-                                        <div class="message">Update dependency oclif to v3.4.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cd31c3</div>
-                                        <div class="message">Merge pull request #362 from Luna-Klatzer/renovate/node-18.x
-
-Update dependency @types/node to v18.11.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d83e461</div>
-                                        <div class="message">Update dependency @types/node to v18.11.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1d86c2</div>
-                                        <div class="message">Merge pull request #355 from Luna-Klatzer/renovate/oclif-test-2.x
-
-Update dependency @oclif/test to v2.2.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31bb82d</div>
-                                        <div class="message">Merge pull request #361 from Luna-Klatzer/renovate/mocha-10.x
-
-Update dependency @types/mocha to v10.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fb4c91</div>
-                                        <div class="message">Update dependency @types/mocha to v10.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8586ae4</div>
-                                        <div class="message">Update dependency @oclif/test to v2.2.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59aad6c</div>
-                                        <div class="message">Merge pull request #353 from Luna-Klatzer/renovate/eslint-8.x
-
-Update dependency eslint to v8.29.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7c71ef</div>
-                                        <div class="message">Update dependency eslint to v8.29.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74a29a2</div>
-                                        <div class="message">Merge pull request #291 from Luna-Klatzer/renovate/typescript-4.x
-
-Update dependency typescript to v4.9.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b72b47</div>
-                                        <div class="message">Disabled lib checks for .d.ts files in @kipper/cli</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4da78de</div>
-                                        <div class="message">Update dependency typescript to v4.9.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5f0b55</div>
-                                        <div class="message">Updated url of 'next tag release' in CHANGELOG.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b543768</div>
-                                        <div class="message">Added missing url in CHANGELOG.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94ea3d9</div>
-                                        <div class="message">Made changes categorised under 'Unreleased' collapsible</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#692708a</div>
-                                        <div class="message">Merge pull request #367 from Luna-Klatzer/dev
-
-v0.10.0-alpha.6</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">WMC-AHIF-2022/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4f7b208</div>
-                                        <div class="message">Updated Kipper-Use-Case-Diagram.drawio</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#17a8722</div>
-                                        <div class="message">Added missing "read more" note
-
-Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2023, 20:15:07 (timezone Europe/Vienna) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 16 Jan 2023, 21:19:39 (timezone Europe/Vienna) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
