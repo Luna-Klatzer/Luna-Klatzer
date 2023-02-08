@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1091" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 50 repositories
+                            Contributed to 51 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4145 Commits
+                            4166 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -308,43 +308,55 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 7 commits in
+                                        <span class="repo">Kipper-Lang/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d2372be</div>
+                                        <div class="message">Merge branch 'Luna-Klatzer:main' into main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Luna-Klatzer/Kipper</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">372-feature-implement-array-access-syntax-identifierindex-for-strings</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8677587</div>
-                                        <div class="message">Added index-based assignment expression syntax
-
-Added the syntax in KipperParser.g4 required for future updates to allow the assignment to a specific position inside an iterable
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
+                                        <div class="sha">#f48b70b</div>
+                                        <div class="message">Updated year in copyright notices</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#e56306a</div>
-                                        <div class="message">Prettified CHANGELOG.md
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#238fba4</div>
-                                        <div class="message">Added tests for `InvalidKeyTypeError` and `ValueNotIndexableTypeError`
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52e9bf5</div>
-                                        <div class="message">Renamed `ValueNotIndexableError` to `ValueNotIndexableTypeError` in CHANGELOG.md
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a130134</div>
-                                        <div class="message">Renamed `ValueNotIndexableError` to `ValueNotIndexableTypeError`
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
+                                        <div class="sha">#25c379e</div>
+                                        <div class="message">Updated year in copyright notices</div>
                                     </div>
                                 </div>
                             </section>
@@ -361,18 +373,14 @@ Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">372-feature-implement-array-access-syntax-identifierindex-for-strings</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a3c006</div>
-                                        <div class="message">Added missing errors to CHANGELOG.md
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
+                                        <div class="sha">#b39b745</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aa29188</div>
-                                        <div class="message">Renamed `ValueTypeNotIndexableError` to `ValueNotIndexableError`
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
+                                        <div class="sha">#6579a0d</div>
+                                        <div class="message">Updated year in copyright notices</div>
                                     </div>
                                 </div>
                             </section>
@@ -385,78 +393,14 @@ Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">372-feature-implement-array-access-syntax-identifierindex-for-strings</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#17ce9e7</div>
-                                        <div class="message">Updated tests according to recent changes
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">372-feature-implement-array-access-syntax-identifierindex-for-strings</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d3ce893</div>
-                                        <div class="message">Implemented new internal function 'index()'
-
-Fixes issue where using an index on a string could possibly return undefined, if it was out of bounds
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#404fe36</div>
-                                        <div class="message">Prettified CHANGELOG.md
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#523bf45</div>
-                                        <div class="message">Updated ts-node `rootDir` and `sourceRoot` option
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c38242</div>
-                                        <div class="message">Fixed test script in package.json, which didn't load all test files
-
-Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Kipper-Lang/.github</span>
+                                        <span class="repo">Kipper-Lang/IntelliJ-Plugin</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2eb5ec2</div>
-                                        <div class="message">Create README.md</div>
+                                        <div class="sha">#4be9d31</div>
+                                        <div class="message">Updated year in README.md copright notice</div>
                                     </div>
                                 </div>
                             </section>
@@ -466,7 +410,7 @@ Signed-off-by: Luna-Klatzer &lt;luna.klatzer@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2023, 15:18:27 (timezone Europe/Vienna) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 8 Feb 2023, 16:20:51 (timezone Europe/Vienna) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
