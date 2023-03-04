@@ -434,7 +434,7 @@ This is a script intended to release a new version of the docs and make the proc
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2023, 18:16:18 (timezone Europe/Vienna) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Mar 2023, 19:22:52 (timezone Europe/Vienna) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
