@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1104" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="954" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4460 Commits
+                            4462 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -308,6 +308,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">WMC-AHIF-2022/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e4b4771</div>
+                                        <div class="message">Added rough Projektstrukturplan.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbef31f</div>
+                                        <div class="message">Removed section "Mengengerüst" from Systemspezifikation.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">WMC-AHIF-2022/Kipper</span>
                                     </div>
@@ -391,72 +415,12 @@ The implemented function will get any Pokémon from the first 150.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">3ahif-2223-wmc-3/26-chatroom-backend-Luna-Klatzer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d0751d</div>
-                                        <div class="message">task 7 (stable): Implemented persistent storage for messages API data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be7e2a3</div>
-                                        <div class="message">task 6 (stable): Implemented POST request for messages endpoint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18d7bdb</div>
-                                        <div class="message">task 5 (stable): Implemented message-router.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#788ebdc</div>
-                                        <div class="message">Reformatted README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae7389e</div>
-                                        <div class="message">task 4 (stable): Implemented message repo in message-repo.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#277b9f2</div>
-                                        <div class="message">Changed tsconfig.json config for lib checks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#836c557</div>
-                                        <div class="message">task 3 (stable): Implemented GET for the avatars API</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#783aaf6</div>
-                                        <div class="message">task 2 (stable): Added log of all stored data objects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1602da</div>
-                                        <div class="message">task 2 (wip): Populated data in avatar-repo.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a810f9f</div>
-                                        <div class="message">task 1 (stable): Generated package-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a690725</div>
-                                        <div class="message">task 1 (stable): Added avatar images</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2023, 16:21:52 (timezone Europe/Vienna) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Mar 2023, 17:28:16 (timezone Europe/Vienna) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
