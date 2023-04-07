@@ -405,7 +405,7 @@ The use of the global variable `sidebarHeadings` is now replaced by `sidebarNav.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2023, 23:14:17 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Apr 2023, 00:16:03 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
