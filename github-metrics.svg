@@ -517,7 +517,7 @@ This was due to the fact that migrating to SASS variables removes the option to 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2023, 23:14:47 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Apr 2023, 00:17:17 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
