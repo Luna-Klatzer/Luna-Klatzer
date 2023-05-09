@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1137" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="998" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -308,6 +308,106 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">452-docs-add-api-documentation-for-the-core-target-ts-and-target-js-packages</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a80dd6f</div>
+                                        <div class="message">Merged 'docs' into '452-docs-add-api-documentation-for-the-core-target-ts-and-target-js-packages'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7342dd8</div>
+                                        <div class="message">Bumped Node.js version `16.x` to `18.x` in nodejs-build.yml 
+
+Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f4f2c3</div>
+                                        <div class="message">Bumped Node.js version `16.x` to `18.x` in nodejs-build.yml
+
+Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docs</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7342dd8</div>
+                                        <div class="message">Bumped Node.js version `16.x` to `18.x` in nodejs-build.yml 
+
+Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docs</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2f4f2c3</div>
+                                        <div class="message">Bumped Node.js version `16.x` to `18.x` in nodejs-build.yml
+
+Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">452-docs-add-api-documentation-for-the-core-target-ts-and-target-js-packages</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab39548</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/452-docs-add-api-documentation-for-the-core-target-ts-and-target-js-packages' into 452-docs-add-api-documentation-for-the-core-target-ts-and-target-js-packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d72a47a</div>
+                                        <div class="message">Implemented API generation for packages `target-js` and `target-ts`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Luna-Klatzer/Kipper</span>
                                     </div>
@@ -328,147 +428,12 @@ Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1c3d6fa</div>
-                                        <div class="message">Fixed minor typo in analysable-ast-node.ts
-
-Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;
-(cherry picked from commit b51f3d7ab913661eed40e62ae8962fc7c37c8649)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#69093f4</div>
-                                        <div class="message">Updated pnpm-lock.yaml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Luna-Klatzer/if.06.22_01_http-urls</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#504c554</div>
-                                        <div class="message">Task 13: Implemented 'itShouldNotMatch_GivenASubdomainEndingWithADash'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f910a91</div>
-                                        <div class="message">Task 12: Implemented 'itShouldNotMatch_GivenASubdomainStartingWithADash'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00a5883</div>
-                                        <div class="message">Task 11: Implemented 'itShouldNotMatch_GivenANameEndingWithADash'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">Luna-Klatzer/if.06.22_01_http-urls</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2be85ca</div>
-                                        <div class="message">Task 13: Implemented 'itShouldNotMatch_GivenASubdomainEndingWithADash'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f13a885</div>
-                                        <div class="message">Task 11: Implemented 'itShouldNotMatch_GivenANameEndingWithADash'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0491fb</div>
-                                        <div class="message">Task 10: Implemented 'itShouldNotMatch_GivenANameStartingWithADash'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fc9381</div>
-                                        <div class="message">Task 9: Implemented 'itShouldNotMatch_GivenAnInvalidScheme'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0ef926</div>
-                                        <div class="message">Task 8: Implemented 'itShouldMatch_GivenAnHttpsScheme'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2aaf187</div>
-                                        <div class="message">Task 7: Implemented 'itShouldMatch_GivenASubDomainWithNumbersOnly'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b93a9bc</div>
-                                        <div class="message">Task 6: Implemented 'itShouldMatch_GivenADomainStartingWithANumber'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feaeffc</div>
-                                        <div class="message">Task 5: Implemented 'itShouldMatch_GivenADomainNameWithADash'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f22e1b</div>
-                                        <div class="message">Task 4: Implemented 'itShouldMatch_GivenMoreThanOneSubdomains'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#916c7bf</div>
-                                        <div class="message">Task 3: Implemented 'itShouldMatch_GivenATopLevelDomainAndASubdomain'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5c38c9</div>
-                                        <div class="message">Task 2: Implemented 'itShouldNotMatch_GivenAUrlWithoutAnyDomain'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7707429</div>
-                                        <div class="message">Task 1: Implemented 'itShouldMatch_GivenTheShortestUrlPossible'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2023, 13:14:46 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 May 2023, 15:10:28 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
