@@ -308,6 +308,84 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">287-feature-implement-support-for-f-string-expressions</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0995149</div>
+                                        <div class="message">Prettified tests (and fixed issue during `test` script run)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac0c813</div>
+                                        <div class="message">Prettified CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a24e559</div>
+                                        <div class="message">Prettified code</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">287-feature-implement-support-for-f-string-expressions</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c5e253f</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/287-feature-implement-support-for-f-string-expressions' into 287-feature-implement-support-for-f-string-expressions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b72b71</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dev-0.11.0' into 287-feature-implement-support-for-f-string-expressions
+
+# Conflicts:
+#	CHANGELOG.md
+#	kipper/core/src/compiler/ast/nodes/expressions/primary/fstring-primary-expression.ts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">Luna-Klatzer/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">287-feature-implement-support-for-f-string-expressions</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aed54e0</div>
+                                        <div class="message">Merge branch 'dev-0.11.0' into 287-feature-implement-support-for-f-string-expressions
+
+Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Luna-Klatzer/Kipper</span>
                                     </div>
@@ -345,86 +423,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">287-feature-implement-support-for-f-string-expressions</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7832b76</div>
-                                        <div class="message">Updated CHANGELOG.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">287-feature-implement-support-for-f-string-expressions</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9e9e639</div>
-                                        <div class="message">Implemented target code generation for new conversions from `void`, `null` and `undefined` to `str`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e868c93</div>
-                                        <div class="message">Fixed minor issue in run.ts of @kipper/cli
-
-The check whether javascript code should also be generated was specifically checking "typescript" instead for "javascript" meaning theoretically only these two targets are taken into consideration by the code (as not typescript is assumed to be javascript).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b909bfd</div>
-                                        <div class="message">Added new conversions from `void`, `null` and `undefined` to `str`</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Luna-Klatzer/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">docs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6ab72d4</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/docs' into docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b22b860</div>
-                                        <div class="message">Updated docs info on void-type.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2023, 14:31:42 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jun 2023, 15:18:09 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
