@@ -404,7 +404,7 @@ The bug was caused by the variable declaration still performing type checking af
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2023, 21:14:01 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Jun 2023, 22:17:55 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
