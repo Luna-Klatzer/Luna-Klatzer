@@ -477,7 +477,7 @@ This only includes minor changes, as mostly everything was already working well.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2023, 12:20:09 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jun 2023, 13:16:40 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
