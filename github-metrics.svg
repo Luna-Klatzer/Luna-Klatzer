@@ -404,7 +404,7 @@ This includes renaming `homepage-content` to `homepage-welcome`, and adding a ne
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2023, 10:22:49 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jul 2023, 11:17:29 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
