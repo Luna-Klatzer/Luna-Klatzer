@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1570" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1304" class="">
     <defs>
         <style/>
     </defs>
@@ -311,6 +311,38 @@ Working on @Kipper-Lang.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">44-frontend-cleanup-overall-enhacements</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fc75b42</div>
+                                        <div class="message">minor: Added dark-mode icons and implemented reactive icons for dark-mode changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f354ac</div>
+                                        <div class="message">minor: Implemented gradient text on home-page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#715d980</div>
+                                        <div class="message">fix: Fixed welcome text-box styling in frontend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b234281</div>
+                                        <div class="message">fix: Fixed home-page wave positioning bug</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
                                     </div>
@@ -476,114 +508,12 @@ Set up basic render library for node &amp; the web</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 32 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">54-set-up-redis-database-for-caching-sessions-renders</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#467778d</div>
-                                        <div class="message">Added new file `nodejs-test.yml`
-
-Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0bf484</div>
-                                        <div class="message">Merge pull request #52 from SYP-AHIF-2023-24-25/49-set-up-testing-framework-for-running-unit-tests-in-the-various-packages
-
-Set up testing environment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b78c51f</div>
-                                        <div class="message">minor (#49): Set up testing environment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7c8113</div>
-                                        <div class="message">Merge pull request #50 from SYP-AHIF-2023-24-25/48-set-up-basic-workflow-for-compiling-and-packing-render-library-for-node-web
-
-Set up basic render library for node &amp; the web</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a8888b</div>
-                                        <div class="message">fix (#48): Fixed invalid dep install in eslint.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#236de0e</div>
-                                        <div class="message">fix (#48): Added missing package `@typescript-eslint/eslint-plugin`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5aa3e59</div>
-                                        <div class="message">fix (#48): Added missing package `@typescript-eslint/parser`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e00990</div>
-                                        <div class="message">fix (#48): Fixed typo in eslint.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9117179</div>
-                                        <div class="message">other (#48): Updated pnpm-lock.yaml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74ec939</div>
-                                        <div class="message">other (#48): Updated eslint.yml to include `asciidoc-renderer`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a57856f</div>
-                                        <div class="message">other (#48): Added asciidoc-renderer to dependencies in package.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a49d780</div>
-                                        <div class="message">other (#48): Updated eslint dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fa6c66</div>
-                                        <div class="message">fix (#48): Fixed invalid .eslintrc in asciidoc-renderer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#473c15b</div>
-                                        <div class="message">Merge branch 'dev-sprint-2' into 48-set-up-basic-workflow-for-compiling-and-packing-render-library-for-node-web</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34e7cbe</div>
-                                        <div class="message">other: Updated pnpm-lock.yaml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37271bb</div>
-                                        <div class="message">minor (#48): Changed build output to `dist/web` for asciidoc-renderer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e00490e</div>
-                                        <div class="message">minor (#48): Added additional files to .gitignore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a824045</div>
-                                        <div class="message">fix (#48): Fixed failing browserify build process using custom build script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e4a868</div>
-                                        <div class="message">minor (#48): Set up class structure and build-process (Still WIP)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d616d8</div>
-                                        <div class="message">minor (#48): Setup basic asciidoc-renderer package and browserify build process</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2023, 13:33:38 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 14:21:10 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
