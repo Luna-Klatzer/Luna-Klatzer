@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1044" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="974" class="">
     <defs>
         <style/>
     </defs>
@@ -308,6 +308,33 @@ Working on @Kipper-Lang.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d60b7fa</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library' into 45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library
+
+# Conflicts:
+#	solardoc/asciidoc-renderer/src/slide.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e3fe65</div>
+                                        <div class="message">fix (#45): Fixed invalid generic typing in slide.ts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -386,56 +413,12 @@ Working on @Kipper-Lang.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">54-set-up-redis-database-for-caching-sessions-renders</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40541e0</div>
-                                        <div class="message">Merged 53-implement-rest-api-for-accessing-server-side-rendering-library into 54-set-up-redis-database-for-caching-sessions-renders</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d7a592</div>
-                                        <div class="message">minor (#54): Added package `loopback-connector-redis` to rest-api/package.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#539e07d</div>
-                                        <div class="message">fix (#53): Fixed broken prettier script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bfc2da</div>
-                                        <div class="message">other (#53): Prettified code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3027629</div>
-                                        <div class="message">fix (#53): Fixed bug in ping controller</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d2933c</div>
-                                        <div class="message">minor (#53): Set up basic structure for render Rest API</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88f85d9</div>
-                                        <div class="message">minor (#53): Added models for API</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Dec 2023, 14:20:32 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2023, 15:16:22 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
