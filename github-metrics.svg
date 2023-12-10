@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1291" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="974" class="">
     <defs>
         <style/>
     </defs>
@@ -311,6 +311,48 @@ Working on @Kipper-Lang.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">53-implement-rest-api-for-accessing-server-side-rendering-library</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#09c760e</div>
+                                        <div class="message">fix (#53): Fixed ghost `console.log()` in EditorView.vue</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">53-implement-rest-api-for-accessing-server-side-rendering-library</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6a57bb4</div>
+                                        <div class="message">major (#53): Implemented reveal.js render endpoint and integrated `@solardoc/asciidoc-renderer`
+
+At the moment the file access is still WIP.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
                                     </div>
@@ -372,131 +414,12 @@ This commit fixes the issue that NGINX would return a 404.html page for static p
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">53-implement-rest-api-for-accessing-server-side-rendering-library</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b75f6d4</div>
-                                        <div class="message">minor (#53): Added 'checkIfBackendIsReachable' to test if backend is reachable</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 48 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">53-implement-rest-api-for-accessing-server-side-rendering-library</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b7674b4</div>
-                                        <div class="message">minor (#45): Added det-env.ts for determining the current running env</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbe0d04</div>
-                                        <div class="message">fix (#45): Fixed invalid generic typing in `HTMLRenderer` extends</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a76cd38</div>
-                                        <div class="message">Merge branch '45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library' of https://github.com/SYP-AHIF-2023-24-25/SolarDoc into 45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7a5c94</div>
-                                        <div class="message">minor(#45): started metadata preperation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d60b7fa</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library' into 45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library
-
-# Conflicts:
-#	solardoc/asciidoc-renderer/src/slide.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa3be10</div>
-                                        <div class="message">minor (#45): Prettified and fixed bug in html-output.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#049a816</div>
-                                        <div class="message">minor (#45): Added errors for asciidoc-renderer library</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64b6e18</div>
-                                        <div class="message">minor (#45): Updated tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#731a8c8</div>
-                                        <div class="message">other (#53): Prettified test files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8645cc1</div>
-                                        <div class="message">minor(#45): started rendering for html</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e3fe65</div>
-                                        <div class="message">fix (#45): Fixed invalid generic typing in slide.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#053b9ec</div>
-                                        <div class="message">minor(#45): added unit tests and improved type structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4b4383</div>
-                                        <div class="message">other: resolved merge conflict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3e4aae</div>
-                                        <div class="message">fix: formatting in asciidoc-loader.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#825866a</div>
-                                        <div class="message">fix: added asciidoc-loader.ts to .prettierignore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f967cb</div>
-                                        <div class="message">minor (#45): started with the asciidoc-compiler.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5aacef5</div>
-                                        <div class="message">Merged remote into '45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3961504</div>
-                                        <div class="message">Merged 'dev-sprint-2' into '45-implement-pdf-html-and-image-render-functionality-in-solardocasciidoc-renderer-library'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#223fcd8</div>
-                                        <div class="message">minor (#45) : Finished writing AsciiFile class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fb97f6</div>
-                                        <div class="message">fix: Fixed script compatibility issue on Windows</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Dec 2023, 20:13:01 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2023, 21:17:23 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
