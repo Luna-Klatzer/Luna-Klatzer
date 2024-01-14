@@ -311,6 +311,30 @@ Working on @Kipper-Lang.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">74-implement-slide-navigator-where-you-can-see-all-the-slides-scroll-without-moving-the-actual-presentation-preview</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#34a4c4a</div>
+                                        <div class="message">minor (#74): Fixed scrollbar being visible bug in preview, fixed window overflow and started fix for incorrect slide selection (WIP)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5afa4a</div>
+                                        <div class="message">minor (#74): Added new web runtime script which is injected to allow for additional presentation functionality</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
                                     </div>
@@ -401,36 +425,12 @@ Added version tag to Solardoc title in navigation bar</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">74-implement-slide-navigator-where-you-can-see-all-the-slides-scroll-without-moving-the-actual-presentation-preview</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bb51f49</div>
-                                        <div class="message">Merged 'dev-sprint-3' into branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e3cc28</div>
-                                        <div class="message">minor (#47): Added basic components SlidesNavigator.vue and SubSlidesNavigator.vue (scrollable)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2024, 18:14:56 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jan 2024, 19:20:58 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
