@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="974" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1021" class="">
     <defs>
         <style/>
     </defs>
@@ -311,6 +311,98 @@ Working on @Kipper-Lang.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#df323b1</div>
+                                        <div class="message">minor (#90): Added `:content` to `File` and added new function `change_content` in `Files`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb5d877</div>
+                                        <div class="message">other: Added TODO to user_notifier.ex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72bda5e</div>
+                                        <div class="message">minor (#90): Added `:file` to `EditorChannel`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bec14e</div>
+                                        <div class="message">fix: Fixed older migration file naming inconsistencies and reformatted files</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b78d7e3</div>
+                                        <div class="message">other: Added proper documentation to functions in editor_channel_state.ex</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3739b99</div>
+                                        <div class="message">Merge branch '90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes' into 107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5083700</div>
+                                        <div class="message">other: Added proper documentation to `get_files_for_user` in files.ex</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
                                     </div>
@@ -324,100 +416,12 @@ Working on @Kipper-Lang.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#959c1a9</div>
-                                        <div class="message">other: Added proper document to `get_files_for_user` in files.ex</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4154dbc</div>
-                                        <div class="message">Merged 107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files into 90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55f90aa</div>
-                                        <div class="message">minor(#107): Implemented files module and added migrations file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e59be0f</div>
-                                        <div class="message">other: added temp folder to .gitignore</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7bdd93a</div>
-                                        <div class="message">minor (#90): Added basic integration for `EditorChannelState` in `EditorChannel`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8c53dc</div>
-                                        <div class="message">minor (#90): Set up supervised `EditorChannelState` for managing the server-side state of a editor channel</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span>
-                                        in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Apr 2024, 16:14:02 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2024, 17:16:25 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
