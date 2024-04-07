@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="978" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1157" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -311,17 +311,114 @@ Working on @Kipper-Lang.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ad8f58</div>
+                                        <div class="message">fix (#107, #117): Fixed invalid swagger definitions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7f8d82</div>
+                                        <div class="message">other: Prettified project</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20000d3</div>
+                                        <div class="message">fix (#107): Fixed invalid argument signature in `FileController.update/2`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd2f21d</div>
+                                        <div class="message">fix (#107): Fixed mismatching HTTP return code issue &amp; invalid swagger definition</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files</span></div>
                                     <div class="commit">
-                                        <div class="sha">#20073bb</div>
-                                        <div class="message">Update README.adoc
+                                        <div class="sha">#163a86d</div>
+                                        <div class="message">other: Added swagger.json to .gitignore</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e2ebe13</div>
+                                        <div class="message">fix: Fixed current user id bug in ws-client.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a6885c</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/117-implement-generate-share-url-button-for-user-presentations' into 107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files
 
-Signed-off-by: Luna &lt;dev@lklatzer.com&gt;</div>
+# Conflicts:
+#	solardoc/phoenix-server/lib/solardoc_phoenix_web/router.ex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c427fdc</div>
+                                        <div class="message">minor (#117): Added a comment for my own info and deleted swagger.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#654bac7</div>
+                                        <div class="message">minor (#117): changed issued_at and expires_at data types to integer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1fc720</div>
+                                        <div class="message">minor (#117): fixed date issue by converting naive_datetime to unix_milliseconds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6194128</div>
+                                        <div class="message">minor (#117): Added the share_url schema to swagger by adding the share_url route to router.ex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c17514</div>
+                                        <div class="message">Merged with 107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files to get file migrations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f84bd2</div>
+                                        <div class="message">minor (#117): added swagger_schema for share_url in share_url_controller.ex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff58d24</div>
+                                        <div class="message">minor (#117): fixed issue with expires_at, now using  NaiveDateTime.add(now, 1, :year) to add a year to the date</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3f24cb</div>
+                                        <div class="message">Merged main into 117-implement-generate-share-url-button-for-user-presentations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d797743</div>
+                                        <div class="message">minor (#117): added changeset for creating share_urls and started with a swagger definition</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f97214c</div>
+                                        <div class="message">minor (#117): Created share_url module and database schema with phoenix automatic api generation.</div>
                                     </div>
                                 </div>
                             </section>
@@ -333,71 +430,15 @@ Signed-off-by: Luna &lt;dev@lklatzer.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 15 commits in
                                         <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">98-implement-dynamic-frontend-editor-library-updating-the-editor-based-on-websocket-updates</span></div>
+                                    <div>on branch <span class="code">107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files</span></div>
                                     <div class="commit">
-                                        <div class="sha">#002ead9</div>
-                                        <div class="message">other: Added Join-Create-Channel-Behaviour.drawio (+png)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">98-implement-dynamic-frontend-editor-library-updating-the-editor-based-on-websocket-updates</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2b57ddf</div>
-                                        <div class="message">major (#98): Implemented basic transformation structure for editor channels</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d7f878</div>
-                                        <div class="message">fix: Fixed typo in cast in editor_channel.ex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58f3679</div>
-                                        <div class="message">other: Yes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccd0a37</div>
-                                        <div class="message">fix: Removed misleading unneeded property `creator` in `CreateEditorChannel`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79c9641</div>
-                                        <div class="message">fix: Fixed bugs for `useFileStore` after incorrect refactor</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">98-implement-dynamic-frontend-editor-library-updating-the-editor-based-on-websocket-updates</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f031d02</div>
-                                        <div class="message">minor (#109): renamed file file-name.ts to file.ts</div>
+                                        <div class="sha">#d8a2f30</div>
+                                        <div class="message">Merge branch '98-implement-dynamic-frontend-editor-library-updating-the-editor-based-on-websocket-updates' into 107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +452,7 @@ Signed-off-by: Luna &lt;dev@lklatzer.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">90-implement-basic-change-pools-where-users-can-join-and-receive-editor-changes</span>
+                                        <span class="code">107-implement-file-server-and-file-server-api-endpoints-to-store-user-account-files-temp</span>
                                         in
                                         <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
                                     </div>
@@ -423,7 +464,7 @@ Signed-off-by: Luna &lt;dev@lklatzer.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Apr 2024, 15:20:28 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Apr 2024, 16:15:25 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
