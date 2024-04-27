@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="838" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="871" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -85,7 +85,7 @@ Working on @Kipper-Lang.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4328 Commits
+                            4331 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -235,14 +235,14 @@ Working on @Kipper-Lang.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.0942664090366" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="391.0942664090366" y="0" width="25.75580957066509" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="416.85007597970167" y="0" width="19.381648223900083" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="436.23172420360174" y="0" width="7.38709178268615" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="443.61881598628787" y="0" width="4.4359052693807755" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.05472125566865" y="0" width="4.361076174114529" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="452.4157974297832" y="0" width="3.9714173487646853" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.38721477854784" y="0" width="3.6127852214520657" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.3014705882353" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="384.3014705882353" y="0" width="25.308464849354376" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="409.6099354375897" y="0" width="19.045014347202297" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="428.654949784792" y="0" width="11.539634146341465" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="440.1945839311334" y="0" width="7.258787661406026" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="447.4533715925395" y="0" width="4.358859397417504" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="451.812230989957" y="0" width="4.285329985652798" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="456.0975609756098" y="0" width="3.9024390243902443" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -262,6 +262,12 @@ Working on @Kipper-Lang.</div>
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -287,12 +293,6 @@ Working on @Kipper-Lang.</div>
                         </svg>
                         Shell
                     </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
                 </div>
             </section>
             <section>
@@ -304,6 +304,34 @@ Working on @Kipper-Lang.</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Luna-Klatzer/Klatzer-Haider-Holzbauer-DAODAO</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#88fd0d0</div>
+                                        <div class="message">minor: Started implementation of persistence</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31859a5</div>
+                                        <div class="message">minor: Started implementation of import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0642b55</div>
+                                        <div class="message">minor: Implemented contracts and basic entities</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -370,32 +398,12 @@ Working on @Kipper-Lang.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SYP-AHIF-2023-24-25/SolarDoc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">128-stabilise-ot-library-and-implement-db-file-syncing</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6644877</div>
-                                        <div class="message">Merge branch 'dev-sprint-6' into 128-stabilise-ot-library-and-implement-db-file-syncing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Apr 2024, 15:18:44 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2024, 16:14:12 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
