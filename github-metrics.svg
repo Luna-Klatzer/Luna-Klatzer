@@ -235,14 +235,14 @@ Working on @Kipper-Lang.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.3014705882353" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="384.3014705882353" y="0" width="25.308464849354376" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="409.6099354375897" y="0" width="19.045014347202297" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="428.654949784792" y="0" width="11.539634146341465" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="440.1945839311334" y="0" width="7.258787661406026" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="447.4533715925395" y="0" width="4.358859397417504" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="451.812230989957" y="0" width="4.285329985652798" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="456.0975609756098" y="0" width="3.9024390243902443" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.4822683798379" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="367.4822683798379" y="0" width="31.16679186759396" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="398.64906024743186" y="0" width="24.20082353006966" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="422.8498837775015" y="0" width="18.211496986789594" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="441.0613807642911" y="0" width="6.941102128540033" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.0024828928311" y="0" width="4.1680910990528846" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.170573991884" y="0" width="4.097779749511157" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="456.2683537413951" y="0" width="3.731646258604845" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -250,6 +250,12 @@ Working on @Kipper-Lang.</div>
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -262,12 +268,6 @@ Working on @Kipper-Lang.</div>
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -511,7 +511,7 @@ Signed-off-by: Luna &lt;luna.klatzer@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 May 2024, 14:35:57 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2024, 15:20:39 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
