@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1117" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="954" class="">
     <defs>
         <style/>
     </defs>
@@ -318,14 +318,14 @@ Working on @Kipper-Lang.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev-main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e095ba6</div>
-                                        <div class="message">Merge pull request #592 from Kipper-Lang/renovate/dev-main-prettier-3.x
+                                        <div class="sha">#deec6a0</div>
+                                        <div class="message">Merge pull request #597 from Kipper-Lang/renovate/dev-main-pnpm-action-setup-4.x
 
-chore(deps): update dependency prettier to v3 (dev-main)</div>
+chore(deps): update pnpm/action-setup action to v4 (dev-main)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6159678</div>
-                                        <div class="message">chore(deps): update dependency prettier to v3</div>
+                                        <div class="sha">#1f6ccfa</div>
+                                        <div class="message">chore(deps): update pnpm/action-setup action to v4</div>
                                     </div>
                                 </div>
                             </section>
@@ -338,12 +338,12 @@ chore(deps): update dependency prettier to v3 (dev-main)</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#592 chore(deps): update dependency prettier to v3 (dev-main)</span>
+                                        <span class="issue">#597 chore(deps): update pnpm/action-setup action to v4 (dev-main)</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">Kipper-Lang/Kipper</span></div>
-                                    <div>10 files changed <span class="code">++30 --30</span></div>
+                                    <div>4 files changed <span class="code">++7 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -361,14 +361,14 @@ chore(deps): update dependency prettier to v3 (dev-main)</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev-main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c3d4e1</div>
-                                        <div class="message">Merge pull request #594 from Kipper-Lang/renovate/dev-main-uuid-10.x
+                                        <div class="sha">#c37783e</div>
+                                        <div class="message">Merge pull request #596 from Kipper-Lang/renovate/dev-main-github-codeql-action-3.x
 
-chore(deps): update dependency uuid to v10 (dev-main)</div>
+chore(deps): update github/codeql-action action to v3 (dev-main)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e621150</div>
-                                        <div class="message">chore(deps): update dependency uuid to v10</div>
+                                        <div class="sha">#cc64393</div>
+                                        <div class="message">chore(deps): update github/codeql-action action to v3</div>
                                     </div>
                                 </div>
                             </section>
@@ -381,12 +381,12 @@ chore(deps): update dependency uuid to v10 (dev-main)</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#594 chore(deps): update dependency uuid to v10 (dev-main)</span>
+                                        <span class="issue">#596 chore(deps): update github/codeql-action action to v3 (dev-main)</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">Kipper-Lang/Kipper</span></div>
-                                    <div>10 files changed <span class="code">++27 --27</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -397,55 +397,21 @@ chore(deps): update dependency uuid to v10 (dev-main)</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 11 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">Kipper-Lang/Kipper</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">524-feature-implement-internal-representation-for-objects-and-object-types-interfaces</span></div>
+                                    <div>on branch <span class="code">dev-main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa92eb6</div>
-                                        <div class="message">Merged 480-feature-add-support-for-compiler-behaviour-modifying-pragma-comments into 524-feature-implement-internal-representation-for-objects-and-object-types-interfaces</div>
+                                        <div class="sha">#e095ba6</div>
+                                        <div class="message">Merge pull request #592 from Kipper-Lang/renovate/dev-main-prettier-3.x
+
+chore(deps): update dependency prettier to v3 (dev-main)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fa3f1d1</div>
-                                        <div class="message">minor (#480): Implemented modular `PragmaProcessor` structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#393c4ab</div>
-                                        <div class="message">minor (#480): Implemented modular `PragmaProcessor` structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b844e0</div>
-                                        <div class="message">(minor) Adding concept for pragma handeling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6aab30e</div>
-                                        <div class="message">fix (#480): Fixed bug in channels property of `LexerParserData` and changed type of channels  to `Array&lt;Token&gt;`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bbecd6</div>
-                                        <div class="message">other: Updated CHANGELOG.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbbc4fb</div>
-                                        <div class="message">other: Prettified tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59f29e1</div>
-                                        <div class="message">minor (#480): Added channel `ALL` to `LexerParserData`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bdbb09</div>
-                                        <div class="message">major: Switched from manual numbers to referencing parser RULE numbers in parse-rule-kind-mapping.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fad837e</div>
-                                        <div class="message">other: Fixed invalid exclude paths in .eslintrc and .nycrc.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#579d4d8</div>
-                                        <div class="message">major (#480): Overhauled channel system and introduced pragma channel</div>
+                                        <div class="sha">#6159678</div>
+                                        <div class="message">chore(deps): update dependency prettier to v3</div>
                                     </div>
                                 </div>
                             </section>
@@ -455,7 +421,7 @@ chore(deps): update dependency uuid to v10 (dev-main)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2024, 20:25:08 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 21:16:14 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
