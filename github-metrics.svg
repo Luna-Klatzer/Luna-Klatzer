@@ -308,23 +308,6 @@ Working on @Kipper-Lang.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#583 chore(deps): update dependency @types/node to v20 (dev-main)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">Kipper-Lang/Kipper</span></div>
-                                    <div>12 files changed <span class="code">++83 --83</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -335,40 +318,14 @@ Working on @Kipper-Lang.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev-main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#58d2a62</div>
-                                        <div class="message">Merge pull request #583 from Kipper-Lang/renovate/dev-main-node-20.x
+                                        <div class="sha">#8354ef5</div>
+                                        <div class="message">Merge pull request #591 from Kipper-Lang/renovate/dev-main-os-tmpdir-2.x
 
-chore(deps): update dependency @types/node to v20 (dev-main)</div>
+chore(deps): update dependency os-tmpdir to v2 (dev-main)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f004ee1</div>
-                                        <div class="message">chore(deps): update dependency @types/node to v20</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Kipper-Lang/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev-main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3c57a5b</div>
-                                        <div class="message">Merge pull request #585 from Kipper-Lang/renovate/dev-main-sinon-17.x
-
-chore(deps): update dependency @types/sinon to v17 (dev-main)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9bb4fd</div>
-                                        <div class="message">chore(deps): update dependency @types/sinon to v17</div>
+                                        <div class="sha">#264c0bc</div>
+                                        <div class="message">chore(deps): update dependency os-tmpdir to v2</div>
                                     </div>
                                 </div>
                             </section>
@@ -381,12 +338,12 @@ chore(deps): update dependency @types/sinon to v17 (dev-main)</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#585 chore(deps): update dependency @types/sinon to v17 (dev-main)</span>
+                                        <span class="issue">#591 chore(deps): update dependency os-tmpdir to v2 (dev-main)</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">Kipper-Lang/Kipper</span></div>
-                                    <div>2 files changed <span class="code">++6 --6</span></div>
+                                    <div>2 files changed <span class="code">++9 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -404,14 +361,57 @@ chore(deps): update dependency @types/sinon to v17 (dev-main)</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev-main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5253a04</div>
-                                        <div class="message">Merge pull request #581 from Kipper-Lang/renovate/dev-main-sinonjs-fake-timers-11.x
+                                        <div class="sha">#386bcc5</div>
+                                        <div class="message">Merge pull request #588 from Kipper-Lang/renovate/dev-main-json-parse-even-better-errors-3.x
 
-chore(deps): update dependency @sinonjs/fake-timers to v11 (dev-main)</div>
+chore(deps): update dependency json-parse-even-better-errors to v3.0.2 (dev-main)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3758c7c</div>
-                                        <div class="message">chore(deps): update dependency @sinonjs/fake-timers to v11</div>
+                                        <div class="sha">#fce107a</div>
+                                        <div class="message">chore(deps): update dependency json-parse-even-better-errors to v3.0.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#588 chore(deps): update dependency json-parse-even-better-errors to v3.0.2 (dev-main)</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by renovate[bot] in <span class="repo">Kipper-Lang/Kipper</span></div>
+                                    <div>12 files changed <span class="code">++33 --28</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Kipper-Lang/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev-main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#08dc83b</div>
+                                        <div class="message">Merge pull request #589 from Kipper-Lang/renovate/dev-main-nyc-17.x
+
+chore(deps): update dependency nyc to v17 (dev-main)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2828072</div>
+                                        <div class="message">chore(deps): update dependency nyc to v17</div>
                                     </div>
                                 </div>
                             </section>
@@ -421,7 +421,7 @@ chore(deps): update dependency @sinonjs/fake-timers to v11 (dev-main)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2024, 08:26:53 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 09:18:55 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
