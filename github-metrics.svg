@@ -784,7 +784,7 @@ This is due to the fact generating the parser should be preferably done on the r
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2024, 22:20:51 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 23:18:13 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
