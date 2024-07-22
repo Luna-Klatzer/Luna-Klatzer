@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="844" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="911" class="">
     <defs>
         <style/>
     </defs>
@@ -313,7 +313,7 @@ Working on @Kipper-Lang.</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">671-feature-add-built-in-constant-nan</span>
+                                        <span class="code">669-feature-implement-assignment-to-arrays-based-on-index</span>
                                         in
                                         <span class="repo">Kipper-Lang/Kipper</span>
                                     </div>
@@ -328,20 +328,12 @@ Working on @Kipper-Lang.</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#495 [Feature] Implement support for built-in type identifiers such as `str`, `num`, `bool` etc.</span>
+                                        <span class="issue">#671 [Feature] Add built-in constant `NaN`</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Luna-Klatzer in <span class="repo">Kipper-Lang/Kipper</span></div>
-                                    <div class="comment">
-                                        Already with the reworked type system, you can use types as references, which means this issue is effectively completely covered by #369. 
-Additionally with e66fd3c965b9f3af61735f598ad3655163df6217 types can be referenced and assigned to a variable with the type
-                                        <code>type</code>
-                                        , which means they are almost completely implemented, just without much functionality as
-                                        <code>typeof</code>
-                                        is still waiting to be implemented.
-Closing now.
-                                    </div>
+                                    <div class="comment">Implemented by #676.</div>
                                 </div>
                             </section>
                         </div>
@@ -354,31 +346,11 @@ Closing now.
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#495 [Feature] Implement support for built-in type identifiers such as `str`, `num`, `bool` etc.</span>
+                                        <span class="issue">#671 [Feature] Add built-in constant `NaN`</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">Kipper-Lang/Kipper</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Kipper-Lang/Kipper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev-next</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e66fd3c</div>
-                                        <div class="message">minor (#495): Changed return of `ScopeTypeDeclaration.hasValue` as types can not be declared without a definition</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -391,9 +363,55 @@ Closing now.
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">584-feature-implement-funcp-t-generic-function-type-and-auto-function-type-inference</span>
+                                        <span class="code">671-feature-add-built-in-constant-nan</span>
                                         in
                                         <span class="repo">Kipper-Lang/Kipper</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">Kipper-Lang/Kipper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev-next</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5e0ecc5</div>
+                                        <div class="message">Merge pull request #676 from Kipper-Lang/671-feature-add-built-in-constant-nan
+
+Add support for built-in constant `NaN`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c1b89d</div>
+                                        <div class="message">Merge branch 'refs/heads/dev-next' into 671-feature-add-built-in-constant-nan
+
+# Conflicts:
+#	CHANGELOG.md
+#	kipper/core/src/compiler/semantics/types/built-in/func.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#169954c</div>
+                                        <div class="message">other: Updated CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d20aae</div>
+                                        <div class="message">other: Prettified code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2868ea</div>
+                                        <div class="message">other: Added tests for `NaN`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66a32a3</div>
+                                        <div class="message">minor (#671): Added support for built-in identifier `NaN`</div>
                                     </div>
                                 </div>
                             </section>
@@ -403,7 +421,7 @@ Closing now.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2024, 12:20:51 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2024, 13:16:31 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
