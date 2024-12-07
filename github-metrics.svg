@@ -412,7 +412,7 @@ TODO: Fix notification sizing for phones and remove timestamp info icon in the p
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2024, 16:21:48 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2024, 17:26:52 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
