@@ -440,7 +440,7 @@ Due to a wrong direction of type checks, all properties of thisT had to be prese
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Feb 2025, 14:28:18 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Feb 2025, 15:20:59 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
