@@ -315,8 +315,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f74d586</div>
-                                        <div class="message">Update Themen.md</div>
+                                        <div class="sha">#ae1a9ae</div>
+                                        <div class="message">minor: Update Themen.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -335,8 +335,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4cb10f4</div>
-                                        <div class="message">Update Themen.md</div>
+                                        <div class="sha">#5b41516</div>
+                                        <div class="message">minor: Update Themen.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -355,8 +355,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b686ccc</div>
-                                        <div class="message">Update Themen.md</div>
+                                        <div class="sha">#b896e15</div>
+                                        <div class="message">major: Added SA practise notes</div>
                                     </div>
                                 </div>
                             </section>
@@ -375,8 +375,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c4d4dc7</div>
-                                        <div class="message">Update Themen.md</div>
+                                        <div class="sha">#a6f0173</div>
+                                        <div class="message">minor: Update Themen.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -395,8 +395,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fdae3c3</div>
-                                        <div class="message">Update and rename Themen.adoc to Themen.md</div>
+                                        <div class="sha">#d29faee</div>
+                                        <div class="message">major: Added SA practise notes</div>
                                     </div>
                                 </div>
                             </section>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Apr 2025, 19:18:01 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2025, 20:29:24 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
