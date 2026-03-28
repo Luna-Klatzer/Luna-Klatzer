@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="554" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="571" class="">
     <defs>
         <style/>
     </defs>
@@ -65,9 +65,9 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Computer Scientist from Austria that loves clean code, compilers and foxes 🦊
+                        <div class="introduction">Austro/Peruvian Computer Scientist from TU Vienna that loves clean code, compilers and foxes 🦊
 
-ENG/GER/日本語 OK!</div>
+ENG/GER/日本語 OK! (solo un poco de ESP🙇‍♀️)</div>
                     </section>
                 </div>
             </section>
@@ -296,7 +296,7 @@ ENG/GER/日本語 OK!</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2026, 09:52:14 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Mar 2026, 10:44:37 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
